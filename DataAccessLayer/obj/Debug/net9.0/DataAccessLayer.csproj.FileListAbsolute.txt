@@ -1,0 +1,17 @@
+D:\PRN212_Project\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.deps.json
+D:\PRN212_Project\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.runtimeconfig.json
+D:\PRN212_Project\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.dll
+D:\PRN212_Project\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\PRN212_Project\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\PRN212_Project\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212_Project\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\PRN212_Project\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfo.cs
+D:\PRN212_Project\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\PRN212_Project\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.dll
+D:\PRN212_Project\DataAccessLayer\obj\Debug\net9.0\refint\DataAccessLayer.dll
+D:\PRN212_Project\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.pdb
+D:\PRN212_Project\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.genruntimeconfig.cache
+D:\PRN212_Project\DataAccessLayer\obj\Debug\net9.0\ref\DataAccessLayer.dll
+D:\PRN212_Project\DataAccessLayer\bin\Debug\net9.0\BusinessObject.dll
+D:\PRN212_Project\DataAccessLayer\bin\Debug\net9.0\BusinessObject.pdb
+D:\PRN212_Project\DataAccessLayer\obj\Debug\net9.0\DataAcce.E67BD773.Up2Date
