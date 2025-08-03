@@ -89,7 +89,7 @@ namespace QuitHubWPF_App
                 }
                 if (user.RoleId == 1)
                 {
-                    new UserWindow().Show();
+                    new UserWindow(user.UserId).Show();
                 }
                 else if (user.RoleId == 2)
                 {
@@ -97,7 +97,7 @@ namespace QuitHubWPF_App
                 }
                 else
                 {
-                    new CounselorWindow().Show();
+                    new CounselorWindow(user).Show();
                 }
                 this.Close();
             }

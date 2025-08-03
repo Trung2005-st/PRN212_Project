@@ -4993,11 +4993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "D:\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\PRN212_Project\\DataAccessLayer\\obj\\",
+      "outputPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5018,8 +5018,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\PRN212_Project\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "D:\\PRN212_Project\\BusinessObject\\BusinessObject.csproj"
+            "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\BusinessObject.csproj"
             }
           }
         }

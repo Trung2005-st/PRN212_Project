@@ -28,5 +28,29 @@ namespace QuitHubWPF_App
             new LoginWindow().Show();
             this.Close();
         }
+
+        private void ManageUsers_Click(object sender, RoutedEventArgs e)
+        {
+            new UserManagementWindow().Show();
+            this.Close();
+        }
+
+        private void ManagePlans_Click(object sender, RoutedEventArgs e)
+        {
+            new ManagePlanWindow().Show();
+            this.Close();
+        }
+
+        private void ManageFeedback_Click(object sender, RoutedEventArgs e)
+        {
+            new FeedbackManagementWindow().Show();
+            this.Close();
+        }
+
+        private void Reports_Click(object sender, RoutedEventArgs e)
+        {
+            new DashboardReportManagement().Show();
+            this.Close();
+        }
     }
 }

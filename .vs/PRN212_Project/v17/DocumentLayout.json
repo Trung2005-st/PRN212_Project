@@ -1,122 +1,278 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PRN212_Project\\",
+  "WorkspaceRootPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212_project_group6\\prn212_project\\dataaccesslayer\\feedbackdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\feedbackdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\dashboardreportmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\dashboardreportmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\assets\\images\\backgroundimg1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\assets\\images\\backgroundimg1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\checkliststepwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\checkliststepwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|d:\\prn212_project_group6\\prn212_project\\service\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|solutionrelative:service\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\createquitplanwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\createquitplanwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\dashboardreportmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\dashboardreportmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\counselorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\counselorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\counselorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\counselorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212_project\\dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212_project\\dataaccesslayer\\prn212projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\prn212projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|d:\\prn212_project\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|d:\\prn212_project\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|d:\\prn212_project\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|d:\\prn212_project\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project\\businessobject\\userquitreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project_group6\\prn212_project\\businessobject\\userquitreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\userquitreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project\\businessobject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project_group6\\prn212_project\\businessobject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project\\businessobject\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project_group6\\prn212_project\\businessobject\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\quithubwpf_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\quithubwpf_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project\\businessobject\\quitplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\quitplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project\\businessobject\\reason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project_group6\\prn212_project\\businessobject\\reason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\reason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project\\quithubwpf_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project_group6\\prn212_project\\businessobject\\quitplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\quitplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project\\businessobject\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project_group6\\prn212_project\\businessobject\\feedbackresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\feedbackresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project_group6\\prn212_project\\businessobject\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project\\businessobject\\dailychecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project_group6\\prn212_project\\businessobject\\dailychecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dailychecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project\\businessobject\\counselingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project_group6\\prn212_project\\businessobject\\checkliststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\checkliststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project_group6\\prn212_project\\businessobject\\counselingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\counselingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|d:\\prn212_project_group6\\prn212_project\\businessobject\\adminplanview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863F29D-CA8E-41E7-8FF8-88828611BE4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\adminplanview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\feedbackmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\feedbackmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\feedbackmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\feedbackmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\feedbackresponsewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\feedbackresponsewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\feedbackresponsewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\feedbackresponsewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\feedbackwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\feedbackwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\manageplanwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\manageplanwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\planhistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\planhistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\manageinfowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\manageinfowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\manageplanwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\manageplanwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212_project_group6\\prn212_project\\dataaccesslayer\\feedbackresponsedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\feedbackresponsedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212_project_group6\\prn212_project\\dataaccesslayer\\prn212projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\prn212projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212_project_group6\\prn212_project\\dataaccesslayer\\adminplandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\adminplandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212_project_group6\\prn212_project\\dataaccesslayer\\quitplandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\quitplandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\feedbackwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\feedbackwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|d:\\prn212_project_group6\\prn212_project\\service\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|solutionrelative:service\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|d:\\prn212_project_group6\\prn212_project\\repositories\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|d:\\prn212_project_group6\\prn212_project\\repositories\\ifeedbackresponserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ifeedbackresponserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|d:\\prn212_project_group6\\prn212_project\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|d:\\prn212_project_group6\\prn212_project\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|d:\\prn212_project_group6\\prn212_project\\service\\ifeedbackresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|solutionrelative:service\\ifeedbackresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|d:\\prn212_project_group6\\prn212_project\\service\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|solutionrelative:service\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|d:\\prn212_project_group6\\prn212_project\\service\\feedbackresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|solutionrelative:service\\feedbackresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|d:\\prn212_project_group6\\prn212_project\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|d:\\prn212_project_group6\\prn212_project\\repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\counselorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\counselorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\createquitplanwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\createquitplanwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\manageinfowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\manageinfowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212_project_group6\\prn212_project\\dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9459A1B6-1B54-4C9B-8DBE-F3CD98EB3477}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\usercounselingscheduleswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\usercounselingscheduleswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\usermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\usermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\counselorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\counselorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\usercounselingscheduleswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\usercounselingscheduleswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|d:\\prn212_project_group6\\prn212_project\\service\\icounselingscheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|solutionrelative:service\\icounselingscheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|d:\\prn212_project_group6\\prn212_project\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8224B564-B1F4-48C7-AE27-39A27DDBB33F}|Service\\Service.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\quithubwpf_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\quithubwpf_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\usermanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\usermanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|d:\\prn212_project_group6\\prn212_project\\repositories\\feedbackresponserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0B5125-208A-44A9-8F62-34E17B1CB817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\feedbackresponserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\assets\\images\\backgroundimg1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\assets\\images\\backgroundimg1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|d:\\prn212_project_group6\\prn212_project\\quithubwpf_app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1269D3B7-8F70-43C2-A82F-A40C8004AE46}|QuitHubWPF_App\\QuitHubWPF_App.csproj|solutionrelative:quithubwpf_app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,7 +282,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,36 +310,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\AdminWindow.xaml.cs",
-              "RelativeDocumentMoniker": "QuitHubWPF_App\\AdminWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\AdminWindow.xaml.cs",
-              "RelativeToolTip": "QuitHubWPF_App\\AdminWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:13:29.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "QuitHubWPF_App\\LoginWindow.xaml",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\LoginWindow.xaml",
-              "RelativeToolTip": "QuitHubWPF_App\\LoginWindow.xaml",
+              "DocumentIndex": 6,
+              "Title": "CreateQuitPlanWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\CreateQuitPlanWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\CreateQuitPlanWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\CreateQuitPlanWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\CreateQuitPlanWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-25T08:30:14.421Z",
+              "WhenOpened": "2025-07-28T07:07:13.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\DashboardService.cs",
+              "RelativeDocumentMoniker": "Service\\DashboardService.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\DashboardService.cs",
+              "RelativeToolTip": "Service\\DashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:36:11.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardReportManagement.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\DashboardReportManagement.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\DashboardReportManagement.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\DashboardReportManagement.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\DashboardReportManagement.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:26:11.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AdminWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\AdminWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\AdminWindow.xaml",
               "RelativeDocumentMoniker": "QuitHubWPF_App\\AdminWindow.xaml",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\AdminWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\AdminWindow.xaml",
               "RelativeToolTip": "QuitHubWPF_App\\AdminWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-25T04:13:29.79Z",
@@ -191,47 +360,732 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\UserWindow.xaml",
-              "RelativeDocumentMoniker": "QuitHubWPF_App\\UserWindow.xaml",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\UserWindow.xaml",
-              "RelativeToolTip": "QuitHubWPF_App\\UserWindow.xaml",
+              "DocumentIndex": 3,
+              "Title": "ChecklistStepWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ChecklistStepWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\ChecklistStepWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ChecklistStepWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\ChecklistStepWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-25T13:31:38.299Z",
+              "WhenOpened": "2025-07-28T07:30:57.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegisterWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\RegisterWindow.xaml",
-              "RelativeDocumentMoniker": "QuitHubWPF_App\\RegisterWindow.xaml",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\RegisterWindow.xaml",
-              "RelativeToolTip": "QuitHubWPF_App\\RegisterWindow.xaml",
+              "DocumentIndex": 0,
+              "Title": "FeedbackDAO.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\FeedbackDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\FeedbackDAO.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\FeedbackDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\FeedbackDAO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAawB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T14:07:11.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangePasswordWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ChangePasswordWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\ChangePasswordWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ChangePasswordWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\ChangePasswordWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-25T12:48:45.751Z",
+              "WhenOpened": "2025-07-28T03:39:19.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "backgroundImg1.png - PNG [1536x1024, 24 bit, PNG]",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\Assets\\Images\\backgroundImg1.png",
-              "RelativeDocumentMoniker": "QuitHubWPF_App\\Assets\\Images\\backgroundImg1.png",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\Assets\\Images\\backgroundImg1.png - PNG [1536x1024, 24 bit, PNG]",
-              "RelativeToolTip": "QuitHubWPF_App\\Assets\\Images\\backgroundImg1.png - PNG [1536x1024, 24 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-07-25T08:51:30.583Z",
-              "EditorCaption": " - PNG [1536x1024, 24 bit, PNG]"
+              "Title": "DashboardReportManagement.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\DashboardReportManagement.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\DashboardReportManagement.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\DashboardReportManagement.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\DashboardReportManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-28T09:25:37.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "UserWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\UserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\UserWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\UserWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\UserWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwE0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:32:30.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\User.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\User.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\User.cs",
+              "RelativeToolTip": "BusinessObject\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:21:10.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\Role.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Role.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\Role.cs",
+              "RelativeToolTip": "BusinessObject\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:21:04.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reason.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\Reason.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Reason.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\Reason.cs",
+              "RelativeToolTip": "BusinessObject\\Reason.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:20:56.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuitPlan.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\QuitPlan.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\QuitPlan.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\QuitPlan.cs",
+              "RelativeToolTip": "BusinessObject\\QuitPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:20:53.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FeedbackResponse.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\FeedbackResponse.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\FeedbackResponse.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\FeedbackResponse.cs",
+              "RelativeToolTip": "BusinessObject\\FeedbackResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:28:49.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\Feedback.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Feedback.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\Feedback.cs",
+              "RelativeToolTip": "BusinessObject\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:20:49.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DailyChecklist.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\DailyChecklist.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DailyChecklist.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\DailyChecklist.cs",
+              "RelativeToolTip": "BusinessObject\\DailyChecklist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:20:45.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChecklistStep.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\ChecklistStep.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\ChecklistStep.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\ChecklistStep.cs",
+              "RelativeToolTip": "BusinessObject\\ChecklistStep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:31:33.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserQuitReason.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\UserQuitReason.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\UserQuitReason.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\UserQuitReason.cs",
+              "RelativeToolTip": "BusinessObject\\UserQuitReason.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:21:15.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CounselingSchedule.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\CounselingSchedule.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\CounselingSchedule.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\CounselingSchedule.cs",
+              "RelativeToolTip": "BusinessObject\\CounselingSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:20:22.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminPlanView.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\AdminPlanView.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\AdminPlanView.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\AdminPlanView.cs",
+              "RelativeToolTip": "BusinessObject\\AdminPlanView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:31:37.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\AdminWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwDQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:13:29.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FeedbackManagementWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\FeedbackManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\FeedbackManagementWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\FeedbackManagementWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\FeedbackManagementWindow.xaml.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAYwLgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T14:48:22.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FeedbackResponseWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\FeedbackResponseWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\FeedbackResponseWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\FeedbackResponseWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\FeedbackResponseWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-28T08:51:23.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FeedbackResponseWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\FeedbackResponseWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\FeedbackResponseWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\FeedbackResponseWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\FeedbackResponseWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T08:51:44.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FeedbackManagementWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\FeedbackManagementWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\FeedbackManagementWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\FeedbackManagementWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\FeedbackManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-27T14:05:38.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FeedbackWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\FeedbackWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\FeedbackWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\FeedbackWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\FeedbackWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-28T07:44:44.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManagePlanWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ManagePlanWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\ManagePlanWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ManagePlanWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\ManagePlanWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:07:13.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PlanHistoryWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\PlanHistoryWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\PlanHistoryWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\PlanHistoryWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\PlanHistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-28T09:19:06.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminPlanDAO.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\AdminPlanDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AdminPlanDAO.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\AdminPlanDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AdminPlanDAO.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwEQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:01:55.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManageInfoWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ManageInfoWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\ManageInfoWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ManageInfoWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\ManageInfoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-28T03:34:32.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FeedbackResponseDAO.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\FeedbackResponseDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\FeedbackResponseDAO.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\FeedbackResponseDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\FeedbackResponseDAO.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:41:23.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManagePlanWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ManagePlanWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\ManagePlanWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ManagePlanWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\ManagePlanWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-28T09:04:59.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Prn212ProjectDbContext.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\Prn212ProjectDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Prn212ProjectDbContext.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\Prn212ProjectDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Prn212ProjectDbContext.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAawCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:21:20.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "QuitPlanDAO.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\QuitPlanDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\QuitPlanDAO.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\QuitPlanDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\QuitPlanDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:01:02.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FeedbackWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\FeedbackWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\FeedbackWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\FeedbackWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\FeedbackWindow.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:44:43.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IFeedbackService.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\IFeedbackService.cs",
+              "RelativeDocumentMoniker": "Service\\IFeedbackService.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\IFeedbackService.cs",
+              "RelativeToolTip": "Service\\IFeedbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T14:30:59.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IFeedbackRepository.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\IFeedbackRepository.cs",
+              "RelativeToolTip": "Repositories\\IFeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T14:27:14.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IFeedbackResponseRepository.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\IFeedbackResponseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IFeedbackResponseRepository.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\IFeedbackResponseRepository.cs",
+              "RelativeToolTip": "Repositories\\IFeedbackResponseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:00:21.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:15:19.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:15:35.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IFeedbackResponseService.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\IFeedbackResponseService.cs",
+              "RelativeDocumentMoniker": "Service\\IFeedbackResponseService.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\IFeedbackResponseService.cs",
+              "RelativeToolTip": "Service\\IFeedbackResponseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:01:19.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\UserWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\UserWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\UserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-25T13:31:38.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "Service\\FeedbackService.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\FeedbackService.cs",
+              "RelativeToolTip": "Service\\FeedbackService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T14:32:56.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FeedbackResponseService.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\FeedbackResponseService.cs",
+              "RelativeDocumentMoniker": "Service\\FeedbackResponseService.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\FeedbackResponseService.cs",
+              "RelativeToolTip": "Service\\FeedbackResponseService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA+wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:01:51.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\IUserService.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\IUserService.cs",
+              "RelativeToolTip": "Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:15:54.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FeedbackRepository.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\FeedbackRepository.cs",
+              "RelativeToolTip": "Repositories\\FeedbackRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T14:27:41.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CounselorWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\CounselorWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\CounselorWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\CounselorWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\CounselorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-25T13:32:03.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateQuitPlanWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\CreateQuitPlanWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\CreateQuitPlanWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\CreateQuitPlanWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\CreateQuitPlanWindow.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwE8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:07:58.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\RegisterWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\RegisterWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-25T12:48:45.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\LoginWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\LoginWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-25T08:30:14.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ManageInfoWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ManageInfoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\ManageInfoWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ManageInfoWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\ManageInfoWindow.xaml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:38:39.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\UserDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UserDAO.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\UserDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\UserDAO.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:13:59.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserCounselingSchedulesWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\UserCounselingSchedulesWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\UserCounselingSchedulesWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\UserCounselingSchedulesWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\UserCounselingSchedulesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-28T02:43:45.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserManagementWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\UserManagementWindow.xaml",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\UserManagementWindow.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\UserManagementWindow.xaml",
+              "RelativeToolTip": "QuitHubWPF_App\\UserManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-27T12:51:05.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ChangePasswordWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ChangePasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\ChangePasswordWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\ChangePasswordWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\ChangePasswordWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:39:15.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CounselorWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\CounselorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\CounselorWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\CounselorWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\CounselorWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:51:42.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserCounselingSchedulesWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\UserCounselingSchedulesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\UserCounselingSchedulesWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\UserCounselingSchedulesWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\UserCounselingSchedulesWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T02:45:28.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ICounselingScheduleService.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\ICounselingScheduleService.cs",
+              "RelativeDocumentMoniker": "Service\\ICounselingScheduleService.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\ICounselingScheduleService.cs",
+              "RelativeToolTip": "Service\\ICounselingScheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:48:39.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:16:09.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "QuitHubWPF_App.csproj",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\QuitHubWPF_App.csproj",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\QuitHubWPF_App.csproj",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\QuitHubWPF_App.csproj",
+              "RelativeToolTip": "QuitHubWPF_App\\QuitHubWPF_App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T04:22:44.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwGQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:35:58.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserManagementWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\UserManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\UserManagementWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\UserManagementWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\UserManagementWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T13:00:42.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\RegisterWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "QuitHubWPF_App\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:06:33.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FeedbackResponseRepository.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\FeedbackResponseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FeedbackResponseRepository.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\FeedbackResponseRepository.cs",
+              "RelativeToolTip": "Repositories\\FeedbackResponseRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:00:35.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\appsettings.json",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\appsettings.json",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\appsettings.json",
+              "RelativeToolTip": "QuitHubWPF_App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T04:23:24.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\App.xaml",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\App.xaml",
               "RelativeDocumentMoniker": "QuitHubWPF_App\\App.xaml",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\App.xaml",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\App.xaml",
               "RelativeToolTip": "QuitHubWPF_App\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-25T08:29:42.943Z",
@@ -239,280 +1093,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CounselorWindow.xaml",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\CounselorWindow.xaml",
-              "RelativeDocumentMoniker": "QuitHubWPF_App\\CounselorWindow.xaml",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\CounselorWindow.xaml",
-              "RelativeToolTip": "QuitHubWPF_App\\CounselorWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-25T13:32:03.317Z",
-              "EditorCaption": ""
+              "DocumentIndex": 66,
+              "Title": "backgroundImg1.png - PNG [1536x1024, 24 bit, PNG]",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\Assets\\Images\\backgroundImg1.png",
+              "RelativeDocumentMoniker": "QuitHubWPF_App\\Assets\\Images\\backgroundImg1.png",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\Assets\\Images\\backgroundImg1.png - PNG [1536x1024, 24 bit, PNG]",
+              "RelativeToolTip": "QuitHubWPF_App\\Assets\\Images\\backgroundImg1.png - PNG [1536x1024, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-25T08:51:30.583Z",
+              "EditorCaption": " - PNG [1536x1024, 24 bit, PNG]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "QuitHubWPF_App\\LoginWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "QuitHubWPF_App\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAgwHMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T08:35:58.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CounselorWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\CounselorWindow.xaml.cs",
-              "RelativeDocumentMoniker": "QuitHubWPF_App\\CounselorWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\CounselorWindow.xaml.cs",
-              "RelativeToolTip": "QuitHubWPF_App\\CounselorWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:51:42.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\RegisterWindow.xaml.cs",
-              "RelativeDocumentMoniker": "QuitHubWPF_App\\RegisterWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\RegisterWindow.xaml.cs",
-              "RelativeToolTip": "QuitHubWPF_App\\RegisterWindow.xaml.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAQwDcAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:06:33.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\Service\\IUserService.cs",
-              "RelativeDocumentMoniker": "Service\\IUserService.cs",
-              "ToolTip": "D:\\PRN212_Project\\Service\\IUserService.cs",
-              "RelativeToolTip": "Service\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T08:15:54.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\PRN212_Project\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T08:15:19.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
-              "ToolTip": "D:\\PRN212_Project\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T08:15:35.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserDAO.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\DataAccessLayer\\UserDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\UserDAO.cs",
-              "ToolTip": "D:\\PRN212_Project\\DataAccessLayer\\UserDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\UserDAO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T08:13:59.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Prn212ProjectDbContext.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\DataAccessLayer\\Prn212ProjectDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Prn212ProjectDbContext.cs",
-              "ToolTip": "D:\\PRN212_Project\\DataAccessLayer\\Prn212ProjectDbContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\Prn212ProjectDbContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA4wKEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:21:20.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\UserWindow.xaml.cs",
-              "RelativeDocumentMoniker": "QuitHubWPF_App\\UserWindow.xaml.cs",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\UserWindow.xaml.cs",
-              "RelativeToolTip": "QuitHubWPF_App\\UserWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:32:30.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserQuitReason.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\BusinessObject\\UserQuitReason.cs",
-              "RelativeDocumentMoniker": "BusinessObject\\UserQuitReason.cs",
-              "ToolTip": "D:\\PRN212_Project\\BusinessObject\\UserQuitReason.cs",
-              "RelativeToolTip": "BusinessObject\\UserQuitReason.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:21:15.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\BusinessObject\\User.cs",
-              "RelativeDocumentMoniker": "BusinessObject\\User.cs",
-              "ToolTip": "D:\\PRN212_Project\\BusinessObject\\User.cs",
-              "RelativeToolTip": "BusinessObject\\User.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:21:10.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "Service\\UserService.cs",
-              "ToolTip": "D:\\PRN212_Project\\Service\\UserService.cs",
-              "RelativeToolTip": "Service\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T08:16:09.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Role.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\BusinessObject\\Role.cs",
-              "RelativeDocumentMoniker": "BusinessObject\\Role.cs",
-              "ToolTip": "D:\\PRN212_Project\\BusinessObject\\Role.cs",
-              "RelativeToolTip": "BusinessObject\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:21:04.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 67,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "QuitHubWPF_App\\AssemblyInfo.cs",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\AssemblyInfo.cs",
+              "ToolTip": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\AssemblyInfo.cs",
               "RelativeToolTip": "QuitHubWPF_App\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T08:29:32.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "QuitHubWPF_App.csproj",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\QuitHubWPF_App.csproj",
-              "RelativeDocumentMoniker": "QuitHubWPF_App\\QuitHubWPF_App.csproj",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\QuitHubWPF_App.csproj",
-              "RelativeToolTip": "QuitHubWPF_App\\QuitHubWPF_App.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-25T04:22:44.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "QuitPlan.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\BusinessObject\\QuitPlan.cs",
-              "RelativeDocumentMoniker": "BusinessObject\\QuitPlan.cs",
-              "ToolTip": "D:\\PRN212_Project\\BusinessObject\\QuitPlan.cs",
-              "RelativeToolTip": "BusinessObject\\QuitPlan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:20:53.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Reason.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\BusinessObject\\Reason.cs",
-              "RelativeDocumentMoniker": "BusinessObject\\Reason.cs",
-              "ToolTip": "D:\\PRN212_Project\\BusinessObject\\Reason.cs",
-              "RelativeToolTip": "BusinessObject\\Reason.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:20:56.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\PRN212_Project\\QuitHubWPF_App\\appsettings.json",
-              "RelativeDocumentMoniker": "QuitHubWPF_App\\appsettings.json",
-              "ToolTip": "D:\\PRN212_Project\\QuitHubWPF_App\\appsettings.json",
-              "RelativeToolTip": "QuitHubWPF_App\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-25T04:23:24.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Feedback.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\BusinessObject\\Feedback.cs",
-              "RelativeDocumentMoniker": "BusinessObject\\Feedback.cs",
-              "ToolTip": "D:\\PRN212_Project\\BusinessObject\\Feedback.cs",
-              "RelativeToolTip": "BusinessObject\\Feedback.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:20:49.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DailyChecklist.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\BusinessObject\\DailyChecklist.cs",
-              "RelativeDocumentMoniker": "BusinessObject\\DailyChecklist.cs",
-              "ToolTip": "D:\\PRN212_Project\\BusinessObject\\DailyChecklist.cs",
-              "RelativeToolTip": "BusinessObject\\DailyChecklist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:20:45.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CounselingSchedule.cs",
-              "DocumentMoniker": "D:\\PRN212_Project\\BusinessObject\\CounselingSchedule.cs",
-              "RelativeDocumentMoniker": "BusinessObject\\CounselingSchedule.cs",
-              "ToolTip": "D:\\PRN212_Project\\BusinessObject\\CounselingSchedule.cs",
-              "RelativeToolTip": "BusinessObject\\CounselingSchedule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:20:22.901Z"
             }
           ]
         }

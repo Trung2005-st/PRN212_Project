@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRN212_Project\\Service\\Service.csproj": {}
+    "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\Service.csproj": {}
   },
   "projects": {
-    "D:\\PRN212_Project\\BusinessObject\\BusinessObject.csproj": {
+    "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN212_Project\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "D:\\PRN212_Project\\BusinessObject\\BusinessObject.csproj",
+        "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\BusinessObject.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN212_Project\\BusinessObject\\obj\\",
+        "outputPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN212_Project\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\PRN212_Project\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "D:\\PRN212_Project\\BusinessObject\\BusinessObject.csproj"
+              "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "D:\\PRN212_Project\\Repositories\\Repositories.csproj": {
+    "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN212_Project\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\PRN212_Project\\Repositories\\Repositories.csproj",
+        "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN212_Project\\Repositories\\obj\\",
+        "outputPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -182,11 +182,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\PRN212_Project\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "D:\\PRN212_Project\\BusinessObject\\BusinessObject.csproj"
+              "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\BusinessObject.csproj"
               },
-              "D:\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }
@@ -226,14 +226,14 @@
         }
       }
     },
-    "D:\\PRN212_Project\\Service\\Service.csproj": {
+    "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN212_Project\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "D:\\PRN212_Project\\Service\\Service.csproj",
+        "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN212_Project\\Service\\obj\\",
+        "outputPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -254,11 +254,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\PRN212_Project\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "D:\\PRN212_Project\\BusinessObject\\BusinessObject.csproj"
+              "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\BusinessObject.csproj"
               },
-              "D:\\PRN212_Project\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\PRN212_Project\\Repositories\\Repositories.csproj"
+              "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\Repositories\\Repositories.csproj"
               }
             }
           }

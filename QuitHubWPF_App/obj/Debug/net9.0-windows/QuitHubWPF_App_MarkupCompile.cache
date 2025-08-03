@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\PRN212_Project\QuitHubWPF_App\obj\Debug\net9.0-windows\
+D:\PRN212_Project_Group6\PRN212_Project\QuitHubWPF_App\obj\Debug\net9.0-windows\
 QuitHubWPF_App
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP
-D:\PRN212_Project\QuitHubWPF_App\App.xaml
-5-2003665238
+D:\PRN212_Project_Group6\PRN212_Project\QuitHubWPF_App\App.xaml
+17891819178
 
-8-1269664690
-242-1896379282
-AdminWindow.xaml;CounselorWindow.xaml;LoginWindow.xaml;RegisterWindow.xaml;UserWindow.xaml;
+20-1350654069
+242-579417472
+AdminWindow.xaml;ChangePasswordWindow.xaml;ChecklistStepWindow.xaml;CounselorWindow.xaml;CreateQuitPlanWindow.xaml;DashboardReportManagement.xaml;FeedbackManagementWindow.xaml;FeedbackResponseWindow.xaml;FeedbackWindow.xaml;LoginWindow.xaml;ManageInfoWindow.xaml;ManagePlanWindow.xaml;PlanHistoryWindow.xaml;RegisterWindow.xaml;UserCounselingSchedulesWindow.xaml;UserManagementWindow.xaml;UserWindow.xaml;
 
-False
+True
 

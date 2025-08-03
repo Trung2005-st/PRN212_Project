@@ -3254,11 +3254,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN212_Project\\QuitHubWPF_App\\QuitHubWPF_App.csproj",
+      "projectUniqueName": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\QuitHubWPF_App.csproj",
       "projectName": "QuitHubWPF_App",
-      "projectPath": "D:\\PRN212_Project\\QuitHubWPF_App\\QuitHubWPF_App.csproj",
+      "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\QuitHubWPF_App.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\PRN212_Project\\QuitHubWPF_App\\obj\\",
+      "outputPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\QuitHubWPF_App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3279,11 +3279,11 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "D:\\PRN212_Project\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "D:\\PRN212_Project\\BusinessObject\\BusinessObject.csproj"
+            "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\BusinessObject\\BusinessObject.csproj"
             },
-            "D:\\PRN212_Project\\Service\\Service.csproj": {
-              "projectPath": "D:\\PRN212_Project\\Service\\Service.csproj"
+            "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\Service.csproj": {
+              "projectPath": "D:\\PRN212_Project_Group6\\PRN212_Project\\Service\\Service.csproj"
             }
           }
         }

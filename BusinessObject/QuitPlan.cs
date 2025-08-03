@@ -18,4 +18,6 @@ public partial class QuitPlan
     public virtual User User { get; set; } = null!;
 
     public virtual ICollection<UserQuitReason> UserQuitReasons { get; set; } = new List<UserQuitReason>();
+
+    public virtual ICollection<ChecklistStep> ChecklistSteps { get; set; } = new List<ChecklistStep>();
 }

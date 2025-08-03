@@ -11,33 +11,41 @@
             <GradientStop Color="#388E3C" Offset="1"/>
         </LinearGradientBrush>
 
-        <Style x:Key="AdminCardStyle" TargetType="Border">
+        <Style x:Key="AdminCardStyle" TargetType="Button">
             <Setter Property="Margin" Value="20"/>
             <Setter Property="Padding" Value="20"/>
-            <Setter Property="CornerRadius" Value="10"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="#2E7D32"/>
+            <Setter Property="Background" Value="White"/>
             <Setter Property="BorderBrush" Value="#388E3C"/>
             <Setter Property="BorderThickness" Value="2"/>
-            <Setter Property="Background" Value="White"/>
-            <Setter Property="Cursor" Value="Hand"/>
-            <Setter Property="Effect">
+            <Setter Property="Template">
                 <Setter.Value>
-                    <DropShadowEffect Color="Black" BlurRadius="0" ShadowDepth="0" Opacity="0"/>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="10"
+                                Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#C8E6C9"/>
+                                <Setter Property="Foreground" Value="White"/>
+                                <Setter TargetName="border" Property="Effect">
+                                    <Setter.Value>
+                                        <DropShadowEffect Color="Black" BlurRadius="10" ShadowDepth="2" Opacity="0.2"/>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
                 </Setter.Value>
             </Setter>
-            <Setter Property="TextBlock.Foreground" Value="#2E7D32"/>
-            <Setter Property="TextBlock.FontWeight" Value="Bold"/>
-            <Style.Triggers>
-                <Trigger Property="IsMouseOver" Value="True">
-                    <Setter Property="Background" Value="#C8E6C9"/>
-                    <Setter Property="TextBlock.Foreground" Value="White"/>
-                    <Setter Property="TextBlock.FontWeight" Value="Bold"/>
-                    <Setter Property="Effect">
-                        <Setter.Value>
-                            <DropShadowEffect Color="Black" BlurRadius="10" ShadowDepth="2" Opacity="0.2"/>
-                        </Setter.Value>
-                    </Setter>
-                </Trigger>
-            </Style.Triggers>
         </Style>
     </Window.Resources>
 
@@ -74,20 +82,43 @@
                         DockPanel.Dock="Right"/>
             </DockPanel>
 
-            <!-- Content cards -->
+            <!-- Main Buttons -->
             <WrapPanel Margin="40" HorizontalAlignment="Center" VerticalAlignment="Top">
-                <Border Style="{StaticResource AdminCardStyle}" Width="200" Height="120">
-                    <TextBlock Text="Manage Users" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                </Border>
-                <Border Style="{StaticResource AdminCardStyle}" Width="200" Height="120">
-                    <TextBlock Text="Manage Plans" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                </Border>
-                <Border Style="{StaticResource AdminCardStyle}" Width="200" Height="120">
-                    <TextBlock Text="Manage Feedback" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                </Border>
-                <Border Style="{StaticResource AdminCardStyle}" Width="200" Height="120">
-                    <TextBlock Text="Reports &amp; Analytics" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                </Border>
+                <!-- Manage Users -->
+                <Button Style="{StaticResource AdminCardStyle}" Width="200" Height="120" Click="ManageUsers_Click">
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBlock FontFamily="Segoe MDL2 Assets" Text="" FontSize="26" Margin="0,0,0,8" HorizontalAlignment="Center"/>
+                        <TextBlock Text="Manage Users" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+
+                <!-- Manage Plans -->
+                <Button Style="{StaticResource AdminCardStyle}" Width="200" Height="120" Click="ManagePlans_Click">
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBlock FontFamily="Segoe MDL2 Assets" Text="" FontSize="26" Margin="0,0,0,8" HorizontalAlignment="Center"/>
+                        <TextBlock Text="Manage Plans" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+
+                <!-- Manage Feedback -->
+                <Button Style="{StaticResource AdminCardStyle}" Width="200" Height="120" Click="ManageFeedback_Click">
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBlock FontFamily="Segoe MDL2 Assets"  Text="" FontSize="26" Margin="0,0,0,8" HorizontalAlignment="Center"/>
+                        <TextBlock Text="Manage Feedback" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+
+                <!-- Reports & Analytics -->
+                <Button Style="{StaticResource AdminCardStyle}" Width="200" Height="120" Click="Reports_Click">
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBlock FontFamily="Segoe MDL2 Assets" Text="" FontSize="26" Margin="0,0,0,8" HorizontalAlignment="Center"/>
+                        <TextBlock Text="Reports &amp; Analytics"
+                   TextWrapping="Wrap"
+                   TextAlignment="Center"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
             </WrapPanel>
         </DockPanel>
     </Grid>

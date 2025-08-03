@@ -5,10 +5,22 @@
     <Compile Update="CounselorWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="DashboardReportManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="FeedbackManagementWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="FeedbackResponseWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="LoginWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="RegisterWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserManagementWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="UserWindow.xaml.cs">

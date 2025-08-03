@@ -35,6 +35,9 @@ public partial class Prn212ProjectDbContext : DbContext
 
     public virtual DbSet<UserQuitReason> UserQuitReasons { get; set; }
 
+    public virtual DbSet<FeedbackResponse> FeedbackResponses { get; set; }
+
+    public virtual DbSet<ChecklistStep> ChecklistSteps { get; set; }
     private string GetConnectionString()
     {
         IConfiguration configuration = new ConfigurationBuilder()
@@ -153,6 +156,29 @@ public partial class Prn212ProjectDbContext : DbContext
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_UserQuitReasons_Reasons");
         });
+
+        modelBuilder.Entity<FeedbackResponse>(entity =>
+        {
+            entity.HasKey(e => e.ResponseId);
+
+            entity.Property(e => e.ResponseText).HasMaxLength(1000);
+            entity.Property(e => e.RespondedAt)
+              .HasDefaultValueSql("(getdate())")
+              .HasColumnType("datetime");
+
+            entity.HasOne(d => d.Feedback)
+              .WithMany(p => p.FeedbackResponses)
+              .HasForeignKey(d => d.FeedbackId)
+              .OnDelete(DeleteBehavior.Cascade)
+              .HasConstraintName("FK_FeedbackResponses_Feedbacks");
+
+            entity.HasOne(d => d.Responder)
+              .WithMany(p => p.GivenResponses)
+              .HasForeignKey(d => d.ResponderId)
+              .OnDelete(DeleteBehavior.ClientSetNull)
+              .HasConstraintName("FK_FeedbackResponses_Users");
+        });
+
 
         OnModelCreatingPartial(modelBuilder);
     }

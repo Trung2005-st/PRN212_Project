@@ -26,4 +26,7 @@ public partial class User
     public virtual ICollection<QuitPlan> QuitPlans { get; set; } = new List<QuitPlan>();
 
     public virtual Role Role { get; set; } = null!;
+
+    public virtual ICollection<FeedbackResponse> GivenResponses { get; set; } = new List<FeedbackResponse>();
+
 }
